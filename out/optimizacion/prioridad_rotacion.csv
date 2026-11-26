@@ -1,0 +1,10 @@
+prioridad,codigo,nombre,K,tipo,rotacion_viajes_por_dock_dia,E_fallas_sin_intervencion,E_fallas_operador,E_fallas_propuesta,fallas_evitadas_vs_operador
+1,208,Hesiodo-Lamartine,25,fuente (se vacía AM),23.3,109.4,93.1,62.8,30.2
+2,217,Euler-Horacio,31,sumidero (se llena AM),10.7,80.0,64.2,26.0,38.2
+3,211+212,Isaac Newton-Horacio + Hegel-Horacio,70,fuente (se vacía AM),7.1,59.0,26.5,14.2,12.3
+4,201,Lope de Vega-Av. Ejército Nacional,19,sumidero (se llena AM),7.6,37.7,38.0,12.7,25.3
+5,207,Torquato Tasso-Homero,23,sumidero (se llena AM),7.4,37.6,32.1,7.9,24.2
+6,204,Temístocles-Homero,27,fuente (se vacía AM),6.2,33.6,15.1,10.0,5.2
+7,210,Eugenio Sue-Horacio,27,fuente (se vacía AM),5.9,32.4,8.6,8.6,-0.0
+8,205,Taine-Homero,19,sumidero (se llena AM),9.8,30.4,29.0,9.8,19.2
+9,225,Petrarca-Presidente Masaryk,21,sumidero (se llena AM),7.9,27.5,26.6,6.0,20.6
