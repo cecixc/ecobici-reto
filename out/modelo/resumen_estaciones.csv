@@ -1,0 +1,12 @@
+codigo,nombre,K,lambda_dia,mu_dia,lambda_cruda_dia,mu_cruda_dia,retiros_no_vistos_dia,arribos_no_vistos_dia,min_vacia_dia,min_llena_dia,min_fuera_servicio_dia,x0_optimo,fallas_esp_x0_opt,perdidos_x0_opt,rechazados_x0_opt,fallas_esp_mitad,p_alguna_falla_x0_opt,hora_mediana_1a_falla,operador_neto_dia,min_llena_confirmada_dia,episodios_vacia,episodios_vacia_bicis_sin_usar,huecos_no_explicados,episodios_llena,mediana_max_confirmadas_sobre_K_en_llena,bicis_confirmadas_05h_mediana
+211,Isaac Newton-Horacio,35,169.2,106.1,146.3,102.1,14.5,1.6,43.2,9.2,31.0,33,50.3,48.4,1.9,65.3,1.0,07:47,35.0,0.0,25,6,18,6,0.19,2.0
+212,Hegel-Horacio,35,132.0,110.2,128.0,108.9,4.0,1.3,11.7,8.0,0.0,34,7.7,5.1,2.6,21.1,0.806,08:59,11.3,0.0,5,4,14,3,0.09,1.0
+208,Hesiodo-Lamartine,25,309.3,274.4,296.4,269.4,11.0,2.7,29.0,4.6,6.5,25,96.6,61.6,35.1,109.4,1.0,07:55,23.9,0.9,16,9,23,6,0.22,8.0
+204,Temístocles-Homero,27,103.4,65.3,93.5,63.8,9.9,1.5,50.2,13.2,0.0,27,20.6,19.9,0.7,33.6,0.992,08:29,23.2,0.0,12,8,8,3,0.15,5.0
+210,Eugenio Sue-Horacio,27,101.1,56.9,94.1,56.9,7.0,0.0,61.2,0.0,0.0,27,19.5,19.0,0.5,32.4,0.972,08:37,30.6,0.0,14,2,12,0,,1.0
+217,Euler-Horacio,31,149.5,181.4,145.9,170.7,2.1,9.9,12.8,18.8,7.2,0,65.5,17.6,48.0,80.0,1.0,08:58,-24.0,7.1,4,3,11,19,0.61,1.0
+207,Torquato Tasso-Homero,23,80.9,90.1,79.0,87.5,1.9,2.7,17.0,12.8,0.0,0,27.8,10.2,17.6,37.6,0.999,08:58,-8.4,0.0,2,3,5,5,0.56,0.0
+205,Taine-Homero,19,91.3,94.0,87.3,89.7,2.9,3.7,29.9,14.1,6.9,1,24.5,11.2,13.3,30.4,0.998,08:52,-2.2,25.5,4,4,8,4,0.89,0.0
+201,Lope de Vega-Av. Ejército Nacional,19,73.9,70.1,69.6,66.8,4.2,3.3,25.6,20.4,0.0,0,29.3,16.9,12.4,37.7,1.0,08:36,3.0,10.6,4,4,3,6,0.87,0.0
+225,Petrarca-Presidente Masaryk,21,81.0,85.0,78.6,79.4,1.6,5.2,12.5,2.5,9.5,0,19.4,8.9,10.5,27.5,0.993,09:10,-1.4,52.1,2,2,7,1,0.86,0.0
+211+212,Isaac Newton-Horacio + Hegel-Horacio,70,283.3,214.4,274.3,211.0,7.5,1.5,12.8,4.7,6.4,68,27.3,26.5,0.8,59.0,0.981,08:24,46.3,0.0,11,7,37,6,0.17,3.0

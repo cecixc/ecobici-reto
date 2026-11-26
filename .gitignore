@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+public_data_web_*.csv
+station_information.json
+out/viajes_limpios.csv
+out/estaciones.csv

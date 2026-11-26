@@ -1,0 +1,11 @@
+codigo,nombre,capacidad,retiros_dia,arribos_dia,neto_7_10h,neto_17_20h,deriva_max,deriva_min,rango_deriva/cap,rol,cv_retiros_diarios,lat,lon
+211,Isaac Newton-Horacio,35,146.3,102.1,-41.2,0.2,0.8,-57.7,1.67,fuente (se vacía AM),0.21,19.43385,-99.188275
+212,Hegel-Horacio,35,128.0,109.0,-23.0,-0.2,-0.1,-29.0,0.83,fuente (se vacía AM),0.16,19.433863944714325,-99.18809428821986
+208,Hesiodo-Lamartine,25,296.4,269.5,-38.6,7.5,-5.4,-70.0,2.58,fuente (se vacía AM),0.11,19.434182,-99.189835
+204,Temístocles-Homero,27,93.5,63.8,-25.4,-7.7,-0.1,-33.0,1.22,fuente (se vacía AM),0.14,19.435882,-99.19152
+210,Eugenio Sue-Horacio,27,94.1,56.9,-21.6,-8.9,-0.7,-37.2,1.35,fuente (se vacía AM),0.15,19.434076,-99.194091
+217,Euler-Horacio,31,145.9,170.8,45.5,-21.0,64.0,2.0,2.0,sumidero (se llena AM),0.14,19.432850919536445,-99.1835452617306
+207,Torquato Tasso-Homero,23,79.0,87.5,24.4,-16.1,33.2,-0.0,1.45,sumidero (se llena AM),0.14,19.434861,-99.183322
+205,Taine-Homero,19,87.3,89.7,18.8,-12.0,24.0,0.1,1.26,sumidero (se llena AM),0.14,19.43552573443183,-99.18474711483212
+201,Lope de Vega-Av. Ejército Nacional,19,69.6,66.8,18.9,-15.9,24.5,-2.8,1.44,sumidero (se llena AM),0.22,19.437496732030738,-99.18721206491682
+225,Petrarca-Presidente Masaryk,21,78.6,79.5,18.7,-10.6,22.7,0.3,1.07,sumidero (se llena AM),0.13,19.431172,-99.185612
